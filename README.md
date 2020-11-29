@@ -1,5 +1,5 @@
 # A2plusmore
-Here are three programs that I use with A2plus Assembly program. I have combined them into a workbench. If you think they might be useful you can download the A2plusmore plus directions.zip using the link to the left.
+Here are three programs that I use with A2plus Assembly program. I have combined them into a workbench. If you think they might be useful you can download the A2plusmore plus directions.zip using the link to the right.
 
 In “Auto On”, when selecting features for constraints I use the left mouse button only (DO NOT use the control key) after select a feature from two parts a “default” constraint is automatically selected to connect the two parts. If you do not want the default constraint simply pick the constraint you want from the active constraints before you select the parts. This process is similar to how SolidWorks selections work so if you are accustomed to using SolidWorks it will be familiar to you.
 
